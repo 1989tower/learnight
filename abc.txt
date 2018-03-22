@@ -6,3 +6,5 @@ hello you are a bh
 hello I love U
 
 Creating a new branch is quick.
+
+Creating a new branch is quick AND simple.
